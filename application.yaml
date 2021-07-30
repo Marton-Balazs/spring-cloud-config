@@ -1,4 +1,0 @@
-parkliq:
- client:
-  serviceUrl:
-   defaultZone: http://localhost:8081/parkliq/,http://localhost:8081/parkliq/
